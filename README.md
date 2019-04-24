@@ -34,3 +34,5 @@ See the comments within the `add-protections.sh Bash` script before running this
 ## Test before Production!
 
 As with any code which comes from a public repo - ensure that this is tested within the Dev/Test environment before allowing it to hit Production. Everyone's set up is slightly different, so ensure that it works for you as expected.
+
+Copyright 2019 The Data Shed Limited
