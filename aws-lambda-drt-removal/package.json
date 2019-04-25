@@ -1,0 +1,23 @@
+{
+  "name": "aws-lambda-drt-removal",
+  "version": "1.0.0",
+  "description": "AWS Lambda function to remove DRT ONLY after confirmed closure of a DDoS incident",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --ext js --ignore-path .eslintignore",
+    "lintfix": "eslint . --ext js --ignore-path .eslintignore --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:TheDataShed/shield-advanced.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/TheDataShed/shield-advanced/blob/master/README.md",
+  "devDependencies": {
+    "aws-sdk": "^2.400.0",
+    "eslint": "^5.13.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  }
+}
