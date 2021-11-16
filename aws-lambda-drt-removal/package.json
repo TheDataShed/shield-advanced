@@ -15,7 +15,7 @@
   "license": "ISC",
   "homepage": "https://github.com/TheDataShed/shield-advanced/blob/master/README.md",
   "devDependencies": {
-    "aws-sdk": "^2.400.0",
+    "aws-sdk": "^2.814.0",
     "eslint": "^5.13.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.16.0"
